@@ -142,8 +142,8 @@ DEPENDENCIES
   active_model_serializers
   byebug
   jbuilder (~> 2.0)
-  jquery-rails (= 2.1.4)
-  jquery-ui-rails (= 4.2.1)
+  jquery-rails
+  jquery-ui-rails
   pg
   rack-cors
   rails (= 4.2.0)
