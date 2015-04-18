@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.0'
 gem 'pg'
 gem 'jbuilder', '~> 2.0'
-gem 'jquery-rails'
-gem 'jquery-ui-rails'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'active_model_serializers'
 gem 'rack-cors', require: 'rack/cors'
